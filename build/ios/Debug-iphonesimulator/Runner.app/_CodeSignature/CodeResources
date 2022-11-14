@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		tNzFzbl9bT7Vvg2PWNskxqPV+lY=
+		hh+WD1jC4GyLxPCfcBifoGDPD38=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,19 +54,119 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		1x1NlkCXW9uyyY3xTYKuXe8JRDE=
+		vzCQuImLdqO/U65kl74vHweO/8M=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		DZfe4ZxhdrNvH/igCgtlbjdTzp0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		bmqprEpOGnucNXooktZT4dxGuO4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
 		xTv4xP8BcRwkPdryaG5ai9porwI=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/avenir_bold.otf</key>
+		<data>
+		rIrWQ1agBqbnAdcMO78/YBH5HJg=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/avenir_regular.otf</key>
+		<data>
+		VDG4qAMAuN1wFPLx0Fxms/DYnzg=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/icons/category_1.png</key>
+		<data>
+		w1M6UW6rlxgOkdMTQ1BvpObvjEY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/icons/category_2.png</key>
+		<data>
+		7gGCU75kAF/JGjWEK7GVqpz7O1g=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/icons/category_3.png</key>
+		<data>
+		AKX6tadjo80Sco/YiASoK4cr8Nk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/icons/category_4.png</key>
+		<data>
+		MvivwktEOEjQb3TbIkgJBP3MF1o=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/icons/notification.png</key>
+		<data>
+		1UjbKeIkXWoU7JS4jEjoHH9kXlc=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_1.jpg</key>
+		<data>
+		tpNjzLRHaiEUplHQqPKs9LVB7o8=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_2.jpg</key>
+		<data>
+		YUD9E5HiAnabK2f/mNdoRh1X2ZM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_3.jpg</key>
+		<data>
+		pCSEB6rN9Keb9+XcU8Gh+hKXwkA=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_4.jpg</key>
+		<data>
+		7LF+8hxnTj6aEBlFUxrM8jaue6U=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_5.jpg</key>
+		<data>
+		8242w0fhosB503LIKLTdFaOEr9E=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_6.jpg</key>
+		<data>
+		q9y5QT4XUTtsHzzRfYeMJ8+1lzY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/small/small_post_1.jpg</key>
+		<data>
+		yta8RGwYbgLZOJZ+1MYgt+4TT38=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/small/small_post_2.jpg</key>
+		<data>
+		dnSdSUnaaQT7oFXcgMWfwR9G8GQ=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/small/small_post_3.jpg</key>
+		<data>
+		BbEPj8DQA1CcNX26s7rhpVL2Ufc=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/small/small_post_4.jpg</key>
+		<data>
+		IbE7MOpxhegqslMTWVWjvVjBzXk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_1.jpg</key>
+		<data>
+		ZJfivGgVZ7SpvXESlx7Yy7AJGhU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_2.jpg</key>
+		<data>
+		GQl1UuCPD0zRb1yJW5e0Ogzjg2Y=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_3.jpg</key>
+		<data>
+		p83lkoAFnnd19/gb4f+2ab0rpWs=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_4.jpg</key>
+		<data>
+		AGR+F234pmRTUQyQZiNdNnnF5YE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_5.jpg</key>
+		<data>
+		gnZEvbJpNfCRQe9PHauibvXIcg4=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_6.jpg</key>
+		<data>
+		axe7Z/5ncJRrYTSzI5CAvMbY6tU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_7.jpg</key>
+		<data>
+		bPCJEYwHCT9xMWKjkwbs+skULdE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_8.jpg</key>
+		<data>
+		DG+gsVvj0fIpu2oufX/u6iP9ExY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -78,7 +178,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		fleynX6qnitxM9w3s+z6b81R3m8=
+		5HQE6oFxzz/WyvVp0LfXsTjN+yo=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -261,7 +361,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DE55CPtKwGS6FtID2KkxRw+F2+A0dYhkS7Y5JM9G3Eg=
+			SoMJotG9y06cJjoShADlOMe8XIPzd80HenG8cXULfW4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -275,21 +375,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sqOUZVycOWNYh0RRnJRQfeK06NG/5LRANiapTWRF8Rs=
+			HnVRygBWKMy3nanSUyKtFZx0DkDESPokRFHNom+Wb4Y=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			XV3B5BLUCxcZ+Yye5scz/ShcR8MN3vQFqeB1LFiK5hU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			otSuFRwSZYZ0mNoSaTy7knAuwNnGxXKl++CyAnZe1VI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
@@ -297,6 +397,181 @@
 			<key>hash2</key>
 			<data>
 			cFYWQ+t+cN5QBkoNHcEHdDj70uBENdQC3V0Bz7yleBA=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/avenir_bold.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GzUwCioNU/RY9C1qtHTD4LM3DdV1WLXRu7TuZXJ+DPM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/avenir_regular.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Idf8UD215YkVztRHxwwXQ64EugG1EUxnvvHqidCCZTo=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/icons/category_1.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P5xdI47PxFvjZGY664ozOXdLlkFWz4EH62rpoyhapJk=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/icons/category_2.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hQTQ9YsAvn8jrvNXsXSsz8CZCXLxTnlb1TI7xw4E55Y=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/icons/category_3.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CBcb1SijVY/0VyCw5Mv62SAlcPUI53XPAOcuwXDHXEI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/icons/category_4.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Es3TQAaw29kNXew6U/drgpo2TmwDc+3EFKWPy4Lw6T8=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/icons/notification.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LrgxSdDfi0hfKb44zpshRYdcXh5yhZdn9ezYTCpkFhg=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_1.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eaSUTEzin6NXvr4BUrhMNElgZxbgTaGuh2KRRNxGwbY=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_2.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MK88a63vzWxSW3ES0VdvAwCaenu8+hJrH3mWcxpOjxM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_3.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3OdBzL9V3fFbQf+5Z3En4J2q0SFvfXetc+AqlZroJsY=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_4.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4N9XttLuzBRflQqYYhwoBWFTdXgEIkK6LVNMMMaVrt0=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_5.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WiBa7mF7g5H4sCf6oTFJJPy/AjVwYsRhHkzq0KOcpj0=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/large/large_post_6.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fp4wFA+cDijNzUrwijs+yBYpUvRUqkOElbVvJIGe3nQ=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/small/small_post_1.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BxAGmud56Czs+H22yPYt863Vddzm4VQzRgiPyqBBC6w=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/small/small_post_2.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CbwUelgSfrFGieviYYnXREnrTnMQ3+MuavHFNIye7c4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/small/small_post_3.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			paxtpvS9asGUPulMHek3xIdJePmoabTtSQZYV1iXdUE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/posts/small/small_post_4.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qUNXm0xY94JMzGd1oCEJiZlJaIlej0QFC2b0fJuTFvE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_1.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sBb7ZhlCRJEqVU6EYLXyqdUJ6F+7cQ/8B3VjpsdRURU=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_2.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vQ+w2R/ddvcdxBDR7dGXem/hEqq3b0oiiTdeQOTuAWc=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_3.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yBb6F++YBnBlDoCjo7M8md/JtuIt/P3cjh8bLTxQLMQ=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_4.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b9gnSXerxJwjGAFJ11ZiDmRF15IcTq8HW5keMM7EQOI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_5.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q8H442T7a4TyV2vfMJrrFvexX0vfJ6lExYVlApDxNZg=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_6.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sRqAVHFx46E7XAPTbj0WNehf+1M/H0J98y/hZ2Sqlc4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_7.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			M/C2FmW7bjCEmjBv66BE6l73H5EukE4hnyWJreaqQzQ=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/img/stories/story_8.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8ssv1tUQmnBz0kkYXKno8oKAt5JpcpHBP7BR0bR/HbY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -317,7 +592,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OViFWcN4zFsHNpLSgNRTVzh2VGWayK7+92xwOqDJ5a4=
+			luDZq3zET9DuljsloOVLezFRFFYeHTw9nz4tWT7emk0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
